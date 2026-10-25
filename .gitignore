@@ -1,0 +1,19 @@
+# court-judgment texts and derived microdata are not redistributed
+data/*
+!data/external/
+data/external/*
+!data/external/areacodes_result.csv
+!data/external/areacodes_VERSION.txt
+*.parquet
+*.csv
+!output/tables/*.csv
+!data/external/areacodes_result.csv
+# secrets and local environment
+.env
+.venv/
+# caches
+__pycache__/
+.pytest_cache/
+logs/
+.DS_Store
+annotation/

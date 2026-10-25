@@ -1,0 +1,7 @@
+field,n,agreement,agree_ci_low,agree_ci_high,kappa,kappa_ci_low,kappa_ci_high,derived
+origin_place,50,1.0,1.0,1.0,,,,False
+nonlocal_origin,50,1.0,1.0,1.0,1.0,1.0,1.0,True
+residence_local,50,1.0,1.0,1.0,1.0,1.0,1.0,True
+status_at_judgment,50,0.98,0.94,1.0,0.9560246262093228,0.8568702290076335,1.0,False
+ever_bail,50,1.0,1.0,1.0,1.0,1.0,1.0,False
+probation,50,1.0,1.0,1.0,1.0,1.0,1.0,False
